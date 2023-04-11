@@ -73,11 +73,11 @@
 
 - 아키텍처
 
-![아키텍처](https://lab.ssafy.com/s06-final/S06P31E106/uploads/e36f6c7dd069f8176bb64dbf3733bdf1/아키텍처.jpg)
+![아키텍쳐](https://user-images.githubusercontent.com/87454934/231129267-7be66c3e-de85-4afe-80f6-d1d122d84b90.png)
 
 ### 코드 정적분석 결과
 
-![sonarqube](https://lab.ssafy.com/s06-final/S06P31E106/uploads/26ab620b7841693950fdf6e792b5eb47/sonarqube.jpg)
+![코드 정적분석](https://user-images.githubusercontent.com/87454934/231129285-a8d95d19-1998-4ca2-b956-01fa7a04da75.jpg)
 
 ### 설치
 
